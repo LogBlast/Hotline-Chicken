@@ -1,0 +1,783 @@
+fileFormatVersion: 2
+guid: 9b2a836e58e74e34ea45afac328f1f80
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1049
+        width: 96
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90627dc01c8ad8d4a88e67b7a5d4fa60
+      internalID: -414537972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_1
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1042
+        width: 119
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993e54406ff661949990e90ea626aa0d
+      internalID: -1517187876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_2
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1048
+        width: 121
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0af14b750871fe418e1ca8c6157e603
+      internalID: -225726716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_3
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 879
+        width: 119
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e06ef1d6a3c724fa2da895e18c36c2
+      internalID: 634225659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_4
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 883
+        width: 115
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec71b98373eeb7a47a51147bfea66379
+      internalID: 882386829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_5
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 890
+        width: 95
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4bdfec119a0104d8fd09a4df7b9d06
+      internalID: -605102570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_6
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 875
+        width: 110
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92e8e82814311d479dbfe55aedff069
+      internalID: -1573352360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_7
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 880
+        width: 104
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc90597a5dd4fa4495cdb4627b024a3
+      internalID: -1002508380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 709
+        width: 124
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba5f07b923e6224c960a4b0b34cd075
+      internalID: -150896280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_9
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 716
+        width: 117
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e57931d38628ff48ae897c278d6cd57
+      internalID: 282357226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_10
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 719
+        width: 93
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0306ffe4be49862439d9630cd941b27e
+      internalID: 220487617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_11
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 717
+        width: 116
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68133f60d5149745a7f83ef6923079f
+      internalID: -375969226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_12
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 717
+        width: 116
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34609e9710495e47808a2f91b2e6bb4
+      internalID: -1602461729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_13
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 547
+        width: 111
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b279d4e58fc904d8dfdce6605cf7b3
+      internalID: 1642231571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_14
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 548
+        width: 106
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55b6a2a8819be446a50a60aa28e9b2b
+      internalID: 1436874298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_15
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 554
+        width: 104
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae83be8a85d1f944af9bda77e680258
+      internalID: 424970147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_16
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 537
+        width: 126
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33232a3446ff62e40938a197bd193028
+      internalID: 1367534144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_17
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 548
+        width: 123
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfc54ba0ffb9c047bcd1308c6a3154e
+      internalID: -522450186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_18
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 362
+        width: 121
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0e99a4913481d4bbe28a0fec29a5db
+      internalID: -1238159455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_19
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 373
+        width: 111
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b2c878b27f2884f943c9c4e814bd50
+      internalID: -1241619356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_20
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 108
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddf3b3e82308044dafb336166dbbacd
+      internalID: 752552187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_21
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 376
+        width: 121
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb16e41c2189c44c8c22e0884c03911
+      internalID: -88249124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_22
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 378
+        width: 120
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446bedc9acf46fb4bb10c3fc274f37c6
+      internalID: 303512459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_23
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 208
+        width: 111
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9579289ef7f44ee4fae632d7ddd9e2a9
+      internalID: -30204508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_24
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 212
+        width: 116
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d8d4dd47fcfa640a0c02640a311eb4
+      internalID: -2077575648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_25
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 226
+        width: 96
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f0a02b9df446f4781944c7153b548f
+      internalID: -221773726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_26
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 215
+        width: 114
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce240433b1d56b47951b64230950003
+      internalID: -120207472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_27
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 216
+        width: 116
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db560cfa4ea47ca4e8553e82a65ba31a
+      internalID: 348176129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_28
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 45
+        width: 114
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089a9c3baba830f46bbd50fc4e5753db
+      internalID: -773634160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 45
+        width: 108
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e872c45b1b41947a779fc106a2ad5d
+      internalID: -1451981420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_0: -414537972
+      multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_1: -1517187876
+      multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_10: 220487617
+      multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_11: -375969226
+      multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_12: -1602461729
+      multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_13: 1642231571
+      multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_14: 1436874298
+      multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_15: 424970147
+      multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_16: 1367534144
+      multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_17: -522450186
+      multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_18: -1238159455
+      multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_19: -1241619356
+      multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_2: -225726716
+      multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_20: 752552187
+      multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_21: -88249124
+      multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_22: 303512459
+      multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_23: -30204508
+      multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_24: -2077575648
+      multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_25: -221773726
+      multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_26: -120207472
+      multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_27: 348176129
+      multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_28: -773634160
+      multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_29: -1451981420
+      multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_3: 634225659
+      multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_4: 882386829
+      multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_5: -605102570
+      multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_6: -1573352360
+      multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_7: -1002508380
+      multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_8: -150896280
+      multi_shot_02red_muzzle_flash_special_effect_by_joesalotofthings_decoxe9-414w-2x_9: 282357226
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
